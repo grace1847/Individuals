@@ -1,0 +1,20 @@
+{"level":"info","message":"Loading Mongoose functionality"}
+{"level":"info","message":"Server starting"}
+{"level":"info","message":"Create User"}
+{"level":"info","message":"Create User"}
+{"level":"info","message":"Get all users"}
+{"level":"info","message":"Get user %s"}
+{"level":"info","message":"Get user %s"}
+{"level":"info","message":"Delete user 5dede619b093f62fc0e01ca7"}
+{"level":"info","message":"Loading Mongoose functionality"}
+{"level":"info","message":"Server starting"}
+{"level":"info","message":"Create User"}
+{"level":"info","message":"Create User"}
+{"level":"info","message":"Get all users"}
+{"level":"info","message":"Get user %s"}
+{"level":"info","message":"Get user %s"}
+{"level":"info","message":"Delete user 5dede7211500ab2ff841e48a"}
+{"level":"info","message":"Create Todo"}
+{"level":"info","message":"Get todo %s"}
+{"level":"info","message":"Get todo %s"}
+{"level":"info","message":"Delete todo 5dede7221500ab2ff841e48e"}

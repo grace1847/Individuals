@@ -1,0 +1,9 @@
+{"level":"info","message":"Loading Mongoose functionality"}
+{"level":"info","message":"Server starting"}
+{"level":"info","message":"Create User"}
+{"level":"info","message":"Create User"}
+{"level":"info","message":"Create Todo"}
+{"level":"info","message":"Get all a user todos"}
+{"level":"info","message":"Get todo %s"}
+{"level":"info","message":"Get todo %s"}
+{"level":"info","message":"Delete todo 5df5ae4b690d4f0754454e04"}
