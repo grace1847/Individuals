@@ -22,7 +22,7 @@
         "grunt-contrib-nodemon": "^0.5.4",
         "grunt-env": "^1.0.1",
         "jshint-stylish": "^2.2.1",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "mkdirp": "^0.5.1",
         "mongoose": "^5.7.14",
         "morgan": "^1.9.1",
